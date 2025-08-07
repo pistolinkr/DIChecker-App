@@ -1,0 +1,25 @@
+<svg width="540" height="380" viewBox="0 0 540 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 배경 -->
+  <rect width="540" height="380" fill="url(#bgGrad)"/>
+  
+  <!-- 제목 -->
+  <text x="270" y="80" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#333">Drug Interaction Checker</text>
+  
+  <!-- 설명 -->
+  <text x="270" y="120" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#666">Professional drug interaction analysis with AI-powered insights</text>
+  
+  <!-- 앱 아이콘 위치 표시 -->
+  <rect x="130" y="180" width="128" height="128" fill="none" stroke="#ccc" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="194" y="330" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666">Drag to Applications</text>
+  
+  <!-- Applications 폴더 위치 표시 -->
+  <rect x="410" y="180" width="128" height="128" fill="none" stroke="#ccc" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="474" y="330" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666">Applications</text>
+</svg>
